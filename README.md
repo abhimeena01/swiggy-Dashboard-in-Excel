@@ -1,9 +1,6 @@
 # swiggy-Dashboard-in-Excel
 ## Dashboard
-
-![Swiggy Dashboard](Screenshot 2026-09-26 015538.png)
-
-
+![Swiggy Dashboard](./Screenshot%202026-09-26%20015538.png)
 ## Tools Used
 
 - Microsoft Excel
